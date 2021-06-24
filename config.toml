@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://datascienceonaws.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Data Science on AWS Workshop"
 theme = "minimal"
